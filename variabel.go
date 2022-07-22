@@ -14,10 +14,4 @@ func main() {
 	fmt.Println("a =",a,"b =",b)
  	fmt.Scanln(&a)
  	fmt.Scanln(&b)
-
- 	
-
-
-
-
 }

@@ -3,11 +3,8 @@ package main
 import "fmt"
 
 // Pada tugas kali ini kamu akan diberikan dua variabel yang pertama dalam bentuk integer dan yang kedua dalam bentuk float32. Tulislah code yang akan menampilkan pada console berupa :
-
 // Baris pertama menampilkan penjumlahan dari dua variabel yang diberikan dalam bentuk integer
-
 // Baris kedua menampilkan pengurangan dalam bentuk float dengan 2 koma
-
 // Baris ketiga menampilkan perkalian dalam bentuk integer
 
 func main() {
